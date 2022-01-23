@@ -1,6 +1,6 @@
 {
-	"ip":"example.aternos.ip",
+	"ip":"Industrial_craft.aternos.me",
 	"port": "25565",
-	"name": "afkbot1",
+	"name": "Bot_antiAFK",
 	"auto-night-skip":"true"
 }
